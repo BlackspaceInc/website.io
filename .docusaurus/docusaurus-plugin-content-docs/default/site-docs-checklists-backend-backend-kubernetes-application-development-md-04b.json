@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/backend/backend-kubernetes/application-development",
+  "id": "checklists/backend/backend-kubernetes/application-development",
+  "isDocsHomePage": false,
+  "title": "Application Development",
+  "description": "Best practices for application development on Kubernetes.",
+  "source": "@site/docs/checklists/backend/backend-kubernetes/application-development.md",
+  "slug": "/checklists/backend/backend-kubernetes/application-development",
+  "permalink": "/docs/checklists/backend/backend-kubernetes/application-development",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Distributed Concensus",
+    "permalink": "/docs/learning/distributed-systems/consensus"
+  },
+  "next": {
+    "title": "Best Practices",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/best-practices"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/makers/makers",
+  "id": "products/makers/makers",
+  "isDocsHomePage": false,
+  "title": "Makers",
+  "source": "@site/docs/products/makers/makers.md",
+  "slug": "/products/makers/makers",
+  "permalink": "/docs/products/makers/makers",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Integration",
+    "permalink": "/docs/products/integration/integration"
+  },
+  "next": {
+    "title": "Marketplace",
+    "permalink": "/docs/products/marketplace/marketplace"
+  }
+}

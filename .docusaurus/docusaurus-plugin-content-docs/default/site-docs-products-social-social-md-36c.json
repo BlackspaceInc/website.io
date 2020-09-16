@@ -1,0 +1,15 @@
+{
+  "unversionedId": "products/social/social",
+  "id": "products/social/social",
+  "isDocsHomePage": false,
+  "title": "Social",
+  "source": "@site/docs/products/social/social.md",
+  "slug": "/products/social/social",
+  "permalink": "/docs/products/social/social",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "VC",
+    "permalink": "/docs/products/vc/vc"
+  }
+}

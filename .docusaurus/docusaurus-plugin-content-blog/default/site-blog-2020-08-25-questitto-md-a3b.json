@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/08/25/questitto",
+  "source": "@site/blog/2020-08-25-questitto.md",
+  "description": "Create a simple IoT stack with Mosquitto MQTT Broker, Telegraf and QuestDB.",
+  "date": "2020-08-25T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "mqtt",
+      "permalink": "/blog/tags/mqtt"
+    },
+    {
+      "label": "iot",
+      "permalink": "/blog/tags/iot"
+    },
+    {
+      "label": "docker",
+      "permalink": "/blog/tags/docker"
+    },
+    {
+      "label": "community-written",
+      "permalink": "/blog/tags/community-written"
+    }
+  ],
+  "title": "Light-weight, blazing fast stack for your IoT application",
+  "readingTime": 6.065,
+  "truncated": true,
+  "nextItem": {
+    "title": "Re-examining our approach to memory mapping",
+    "permalink": "/blog/2020/08/19/memory-mapping-deep-dive"
+  }
+}

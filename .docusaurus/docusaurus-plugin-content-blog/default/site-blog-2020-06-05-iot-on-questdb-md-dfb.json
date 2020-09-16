@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2020/06/05/iot-on-questdb",
+  "source": "@site/blog/2020-06-05-iot-on-questdb.md",
+  "description": "Demonstration of an IoT application with QuestDB. This is based on an Arduino device.",
+  "date": "2020-06-05T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "iot",
+      "permalink": "/blog/tags/iot"
+    }
+  ],
+  "title": "IoT on QuestDB",
+  "readingTime": 6.685,
+  "truncated": true,
+  "prevItem": {
+    "title": "Querying data in a Jupyter Notebook",
+    "permalink": "/blog/2020/06/15/python-questdb-tutorial"
+  },
+  "nextItem": {
+    "title": "Things we learned about sums",
+    "permalink": "/blog/2020/05/12/interesting-things-we-learned-about-sums"
+  }
+}

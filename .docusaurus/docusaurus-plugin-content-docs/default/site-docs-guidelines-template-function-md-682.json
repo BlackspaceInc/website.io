@@ -1,0 +1,21 @@
+{
+  "unversionedId": "__guidelines/template/function",
+  "id": "__guidelines/template/function",
+  "isDocsHomePage": false,
+  "title": "FUNCTION",
+  "description": "Function reference pages list one or several (when closely related to each",
+  "source": "@site/docs/__guidelines/template/function.md",
+  "slug": "/__guidelines/template/function",
+  "permalink": "/docs/__guidelines/template/function",
+  "version": "current",
+  "sidebar_label": "Function",
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to \"xyz\"",
+    "permalink": "/docs/__guidelines/template/guide"
+  },
+  "next": {
+    "title": "KEYWORD",
+    "permalink": "/docs/__guidelines/template/sql"
+  }
+}

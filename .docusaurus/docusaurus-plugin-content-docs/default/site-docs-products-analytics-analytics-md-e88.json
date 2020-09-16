@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/analytics/analytics",
+  "id": "products/analytics/analytics",
+  "isDocsHomePage": false,
+  "title": "Analytics",
+  "source": "@site/docs/products/analytics/analytics.md",
+  "slug": "/products/analytics/analytics",
+  "permalink": "/docs/products/analytics/analytics",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ads",
+    "permalink": "/docs/products/ads/ads"
+  },
+  "next": {
+    "title": "Business",
+    "permalink": "/docs/products/business/business"
+  }
+}

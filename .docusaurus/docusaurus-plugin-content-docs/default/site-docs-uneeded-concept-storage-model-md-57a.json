@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/concept/storage-model",
+  "id": "__uneeded/concept/storage-model",
+  "isDocsHomePage": false,
+  "title": "Storage model",
+  "description": "Overview of QuestDB's column-based storage model. It ensures ACID properties while keeping low overhead for maximum performance.",
+  "source": "@site/docs/__uneeded/concept/storage-model.md",
+  "slug": "/__uneeded/concept/storage-model",
+  "permalink": "/docs/__uneeded/concept/storage-model",
+  "version": "current",
+  "sidebar_label": "Storage model"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/sample-by",
+  "id": "__uneeded/reference/sql/sample-by",
+  "isDocsHomePage": false,
+  "title": "SAMPLE BY keyword",
+  "description": "SAMPLE BY SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/sample-by.md",
+  "slug": "/__uneeded/reference/sql/sample-by",
+  "permalink": "/docs/__uneeded/reference/sql/sample-by",
+  "version": "current",
+  "sidebar_label": "SAMPLE BY"
+}

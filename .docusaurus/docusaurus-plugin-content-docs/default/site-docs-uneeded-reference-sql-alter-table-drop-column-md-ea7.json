@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/alter-table-drop-column",
+  "id": "__uneeded/reference/sql/alter-table-drop-column",
+  "isDocsHomePage": false,
+  "title": "ALTER TABLE DROP COLUMN keywords",
+  "description": "DROP COLUMN SQL keword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/alter-table-drop-column.md",
+  "slug": "/__uneeded/reference/sql/alter-table-drop-column",
+  "permalink": "/docs/__uneeded/reference/sql/alter-table-drop-column",
+  "version": "current",
+  "sidebar_label": "ALTER TABLE DROP COLUMN"
+}

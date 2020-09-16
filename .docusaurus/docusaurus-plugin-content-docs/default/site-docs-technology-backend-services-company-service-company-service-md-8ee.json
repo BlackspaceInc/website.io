@@ -1,0 +1,19 @@
+{
+  "unversionedId": "technology/backend-services/company-service/company-service",
+  "id": "technology/backend-services/company-service/company-service",
+  "isDocsHomePage": false,
+  "title": "Company Microservice",
+  "source": "@site/docs/technology/backend-services/company-service/company-service.md",
+  "slug": "/technology/backend-services/company-service/company-service",
+  "permalink": "/docs/technology/backend-services/company-service/company-service",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Authentication Microservice",
+    "permalink": "/docs/technology/backend-services/authentication-service/authentication-service"
+  },
+  "next": {
+    "title": "Email Microservice",
+    "permalink": "/docs/technology/backend-services/email-service/email-service"
+  }
+}

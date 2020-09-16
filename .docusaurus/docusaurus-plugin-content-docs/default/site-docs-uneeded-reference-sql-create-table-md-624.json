@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/create-table",
+  "id": "__uneeded/reference/sql/create-table",
+  "isDocsHomePage": false,
+  "title": "CREATE TABLE keyword",
+  "description": "CREATE TABLE SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/create-table.md",
+  "slug": "/__uneeded/reference/sql/create-table",
+  "permalink": "/docs/__uneeded/reference/sql/create-table",
+  "version": "current",
+  "sidebar_label": "CREATE TABLE"
+}

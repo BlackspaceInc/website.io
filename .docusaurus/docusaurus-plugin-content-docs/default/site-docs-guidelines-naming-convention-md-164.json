@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/naming-convention",
+  "id": "__guidelines/naming-convention",
+  "isDocsHomePage": false,
+  "title": "Naming convention",
+  "description": "Our conventions improve consistency and ensure that we have optimal SEO.",
+  "source": "@site/docs/__guidelines/naming-convention.md",
+  "slug": "/__guidelines/naming-convention",
+  "permalink": "/docs/__guidelines/naming-convention",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Blackspace Golang Style Guide",
+    "permalink": "/docs/__guidelines/style_guide/golang/golang-styleguide"
+  },
+  "next": {
+    "title": "Content hierarchy",
+    "permalink": "/docs/__guidelines/content-hierarchy"
+  }
+}

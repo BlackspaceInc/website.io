@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/releasing",
+  "id": "__guidelines/releasing",
+  "isDocsHomePage": false,
+  "title": "Releases",
+  "description": "This document will cover how to properly release Blackspace.",
+  "source": "@site/docs/__guidelines/releasing.md",
+  "slug": "/__guidelines/releasing",
+  "permalink": "/docs/__guidelines/releasing",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/__guidelines/contributing"
+  },
+  "next": {
+    "title": "Reviewing",
+    "permalink": "/docs/__guidelines/reviewing"
+  }
+}

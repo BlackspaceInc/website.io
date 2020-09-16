@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/api/rest",
+  "id": "__uneeded/api/rest",
+  "isDocsHomePage": false,
+  "title": "REST API",
+  "description": "Tutorial showing to use the REST API. This covers importing, exporting and querying data using QuestDB's HTTP endpoint.",
+  "source": "@site/docs/__uneeded/api/rest.md",
+  "slug": "/__uneeded/api/rest",
+  "permalink": "/docs/__uneeded/api/rest",
+  "version": "current",
+  "sidebar_label": "REST"
+}

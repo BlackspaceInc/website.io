@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/vc/vc",
+  "id": "products/vc/vc",
+  "isDocsHomePage": false,
+  "title": "VC",
+  "source": "@site/docs/products/vc/vc.md",
+  "slug": "/products/vc/vc",
+  "permalink": "/docs/products/vc/vc",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Research",
+    "permalink": "/docs/products/research/research"
+  },
+  "next": {
+    "title": "Social",
+    "permalink": "/docs/products/social/social"
+  }
+}

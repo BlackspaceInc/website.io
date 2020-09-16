@@ -1,0 +1,20 @@
+{
+  "unversionedId": "technology/third-party-apis/third-party-apis",
+  "id": "technology/third-party-apis/third-party-apis",
+  "isDocsHomePage": false,
+  "title": "Third Party Api's",
+  "description": "Blackspace 3rd Party API's",
+  "source": "@site/docs/technology/third-party-apis/third-party-apis.md",
+  "slug": "/technology/third-party-apis/third-party-apis",
+  "permalink": "/docs/technology/third-party-apis/third-party-apis",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "System Benchmarks",
+    "permalink": "/docs/technology/system-benchmarks/system-benchmark"
+  },
+  "next": {
+    "title": "How to use Blackspace with Docker",
+    "permalink": "/docs/guide/docker"
+  }
+}

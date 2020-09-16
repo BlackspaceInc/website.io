@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/blackspace-ecommerce/ecommerce-roadmap",
+  "id": "roadmap/blackspace-ecommerce/ecommerce-roadmap",
+  "isDocsHomePage": false,
+  "title": "Ecommerce Roadmap",
+  "source": "@site/docs/roadmap/blackspace-ecommerce/ecommerce-roadmap.md",
+  "slug": "/roadmap/blackspace-ecommerce/ecommerce-roadmap",
+  "permalink": "/docs/roadmap/blackspace-ecommerce/ecommerce-roadmap",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to setup blackspace with Kubernetes",
+    "permalink": "/docs/guide/kubernetes"
+  },
+  "next": {
+    "title": "Ads",
+    "permalink": "/docs/products/ads/ads"
+  }
+}

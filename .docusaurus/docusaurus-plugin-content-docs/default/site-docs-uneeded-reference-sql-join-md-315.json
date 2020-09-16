@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/join",
+  "id": "__uneeded/reference/sql/join",
+  "isDocsHomePage": false,
+  "title": "JOIN keyword",
+  "description": "JOIN SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/join.md",
+  "slug": "/__uneeded/reference/sql/join",
+  "permalink": "/docs/__uneeded/reference/sql/join",
+  "version": "current",
+  "sidebar_label": "JOIN"
+}

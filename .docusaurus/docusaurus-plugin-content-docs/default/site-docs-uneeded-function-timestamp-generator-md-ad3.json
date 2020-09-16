@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/timestamp-generator",
+  "id": "__uneeded/function/timestamp-generator",
+  "isDocsHomePage": false,
+  "title": "Timestamp generator",
+  "description": "Timestamp generator function reference documentation.",
+  "source": "@site/docs/__uneeded/function/timestamp-generator.md",
+  "slug": "/__uneeded/function/timestamp-generator",
+  "permalink": "/docs/__uneeded/function/timestamp-generator",
+  "version": "current",
+  "sidebar_label": "Timestamp generator"
+}

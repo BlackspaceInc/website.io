@@ -1,0 +1,21 @@
+{
+  "unversionedId": "__guidelines/template/sql",
+  "id": "__guidelines/template/sql",
+  "isDocsHomePage": false,
+  "title": "KEYWORD",
+  "description": "KEYWORD does something interesting.",
+  "source": "@site/docs/__guidelines/template/sql.md",
+  "slug": "/__guidelines/template/sql",
+  "permalink": "/docs/__guidelines/template/sql",
+  "version": "current",
+  "sidebar_label": "SQL",
+  "sidebar": "docs",
+  "previous": {
+    "title": "FUNCTION",
+    "permalink": "/docs/__guidelines/template/function"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/docs/__guidelines/contributing"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/contributing",
+  "id": "__guidelines/contributing",
+  "isDocsHomePage": false,
+  "title": "Contributing",
+  "description": "First, thank you for contributing to the Blackspace Platform! The goal of this document is to",
+  "source": "@site/docs/__guidelines/contributing.md",
+  "slug": "/__guidelines/contributing",
+  "permalink": "/docs/__guidelines/contributing",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "KEYWORD",
+    "permalink": "/docs/__guidelines/template/sql"
+  },
+  "next": {
+    "title": "Releases",
+    "permalink": "/docs/__guidelines/releasing"
+  }
+}

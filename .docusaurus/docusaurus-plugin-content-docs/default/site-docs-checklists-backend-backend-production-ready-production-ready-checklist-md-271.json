@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/backend/backend-production-ready/production-ready-checklist",
+  "id": "checklists/backend/backend-production-ready/production-ready-checklist",
+  "isDocsHomePage": false,
+  "title": "Production Ready Checklist",
+  "description": "This document considers the production readiness of a solution from an infrastructure and applicaton perspective.",
+  "source": "@site/docs/checklists/backend/backend-production-ready/production-ready-checklist.md",
+  "slug": "/checklists/backend/backend-production-ready/production-ready-checklist",
+  "permalink": "/docs/checklists/backend/backend-production-ready/production-ready-checklist",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Patterns",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/patterns"
+  },
+  "next": {
+    "title": "Security Checklist",
+    "permalink": "/docs/checklists/backend/backend-security-checklist/production-security-checklist"
+  }
+}

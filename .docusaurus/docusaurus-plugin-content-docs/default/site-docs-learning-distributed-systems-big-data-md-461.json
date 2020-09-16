@@ -1,0 +1,20 @@
+{
+  "unversionedId": "learning/distributed-systems/big-data",
+  "id": "learning/distributed-systems/big-data",
+  "isDocsHomePage": false,
+  "title": "Big Data Architectural Patterns",
+  "description": "Awesome",
+  "source": "@site/docs/learning/distributed-systems/big-data.md",
+  "slug": "/learning/distributed-systems/big-data",
+  "permalink": "/docs/learning/distributed-systems/big-data",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction"
+  },
+  "next": {
+    "title": "Distributed Systems Learning Resources",
+    "permalink": "/docs/learning/distributed-systems/distributed-systems"
+  }
+}

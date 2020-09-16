@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/04/02/using-simd-to-aggregate-billions-of-rows-per-second",
+  "source": "@site/blog/2020-04-02-using-simd-to-aggregate-billions-of-rows-per-second.md",
+  "description": "How SIMD instructions made aggregations faster, benchmark and comparison with Postgres.",
+  "date": "2020-04-02T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "performance",
+      "permalink": "/blog/tags/performance"
+    },
+    {
+      "label": "simd",
+      "permalink": "/blog/tags/simd"
+    }
+  ],
+  "title": "Aggregating billions of rows per sec with SIMD",
+  "readingTime": 6.175,
+  "truncated": true,
+  "prevItem": {
+    "title": "Things we learned about sums",
+    "permalink": "/blog/2020/05/12/interesting-things-we-learned-about-sums"
+  },
+  "nextItem": {
+    "title": "The art of thread messaging",
+    "permalink": "/blog/2020/03/15/interthread"
+  }
+}

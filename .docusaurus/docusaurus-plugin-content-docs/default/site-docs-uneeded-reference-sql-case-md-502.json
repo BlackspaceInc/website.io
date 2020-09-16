@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/case",
+  "id": "__uneeded/reference/sql/case",
+  "isDocsHomePage": false,
+  "title": "CASE keyword",
+  "description": "CASE SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/case.md",
+  "slug": "/__uneeded/reference/sql/case",
+  "permalink": "/docs/__uneeded/reference/sql/case",
+  "version": "current",
+  "sidebar_label": "CASE"
+}

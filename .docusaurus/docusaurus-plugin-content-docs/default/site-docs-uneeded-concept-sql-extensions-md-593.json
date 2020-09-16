@@ -1,0 +1,11 @@
+{
+  "unversionedId": "__uneeded/concept/sql-extensions",
+  "id": "__uneeded/concept/sql-extensions",
+  "isDocsHomePage": false,
+  "title": "SQL extensions",
+  "description": "QuestDB attempts to implement standard ANSI SQL and extends it for time series needs. This document covers such extensions.",
+  "source": "@site/docs/__uneeded/concept/sql-extensions.md",
+  "slug": "/__uneeded/concept/sql-extensions",
+  "permalink": "/docs/__uneeded/concept/sql-extensions",
+  "version": "current"
+}

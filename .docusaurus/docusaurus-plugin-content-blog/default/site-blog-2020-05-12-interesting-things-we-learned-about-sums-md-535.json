@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/05/12/interesting-things-we-learned-about-sums",
+  "source": "@site/blog/2020-05-12-interesting-things-we-learned-about-sums.md",
+  "description": "What we learned implementing Kahan and Neumaier compensated sum algorithms, benchmark and comparison with Clickhouse.",
+  "date": "2020-05-12T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "performance",
+      "permalink": "/blog/tags/performance"
+    },
+    {
+      "label": "deep-dive",
+      "permalink": "/blog/tags/deep-dive"
+    }
+  ],
+  "title": "Things we learned about sums",
+  "readingTime": 8.47,
+  "truncated": true,
+  "prevItem": {
+    "title": "IoT on QuestDB",
+    "permalink": "/blog/2020/06/05/iot-on-questdb"
+  },
+  "nextItem": {
+    "title": "Aggregating billions of rows per sec with SIMD",
+    "permalink": "/blog/2020/04/02/using-simd-to-aggregate-billions-of-rows-per-second"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/date-time",
+  "id": "__uneeded/function/date-time",
+  "isDocsHomePage": false,
+  "title": "Date and time functions",
+  "description": "Date and time functions reference documentation.",
+  "source": "@site/docs/__uneeded/function/date-time.md",
+  "slug": "/__uneeded/function/date-time",
+  "permalink": "/docs/__uneeded/function/date-time",
+  "version": "current",
+  "sidebar_label": "Date and time"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/rename",
+  "id": "__uneeded/reference/sql/rename",
+  "isDocsHomePage": false,
+  "title": "RENAME TABLE keyword",
+  "description": "RENAME TABLE SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/rename.md",
+  "slug": "/__uneeded/reference/sql/rename",
+  "permalink": "/docs/__uneeded/reference/sql/rename",
+  "version": "current",
+  "sidebar_label": "RENAME TABLE"
+}

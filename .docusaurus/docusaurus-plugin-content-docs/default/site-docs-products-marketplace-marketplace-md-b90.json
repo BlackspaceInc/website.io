@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/marketplace/marketplace",
+  "id": "products/marketplace/marketplace",
+  "isDocsHomePage": false,
+  "title": "Marketplace",
+  "source": "@site/docs/products/marketplace/marketplace.md",
+  "slug": "/products/marketplace/marketplace",
+  "permalink": "/docs/products/marketplace/marketplace",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Makers",
+    "permalink": "/docs/products/makers/makers"
+  },
+  "next": {
+    "title": "Research",
+    "permalink": "/docs/products/research/research"
+  }
+}

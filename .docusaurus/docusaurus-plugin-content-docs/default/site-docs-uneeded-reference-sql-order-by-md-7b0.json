@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/order-by",
+  "id": "__uneeded/reference/sql/order-by",
+  "isDocsHomePage": false,
+  "title": "ORDER BY keyword",
+  "description": "ORDER BY SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/order-by.md",
+  "slug": "/__uneeded/reference/sql/order-by",
+  "permalink": "/docs/__uneeded/reference/sql/order-by",
+  "version": "current",
+  "sidebar_label": "ORDER BY"
+}

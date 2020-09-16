@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/lexicon",
+  "id": "__guidelines/lexicon",
+  "isDocsHomePage": false,
+  "title": "Lexicon",
+  "description": "Spell checking",
+  "source": "@site/docs/__guidelines/lexicon.md",
+  "slug": "/__guidelines/lexicon",
+  "permalink": "/docs/__guidelines/lexicon",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Content hierarchy",
+    "permalink": "/docs/__guidelines/content-hierarchy"
+  },
+  "next": {
+    "title": "Markdown",
+    "permalink": "/docs/__guidelines/markdown"
+  }
+}

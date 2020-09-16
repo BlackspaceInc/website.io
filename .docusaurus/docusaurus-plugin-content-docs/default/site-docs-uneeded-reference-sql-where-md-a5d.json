@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/where",
+  "id": "__uneeded/reference/sql/where",
+  "isDocsHomePage": false,
+  "title": "WHERE keyword",
+  "description": "WHERE SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/where.md",
+  "slug": "/__uneeded/reference/sql/where",
+  "permalink": "/docs/__uneeded/reference/sql/where",
+  "version": "current",
+  "sidebar_label": "WHERE"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/cast",
+  "id": "__uneeded/reference/sql/cast",
+  "isDocsHomePage": false,
+  "title": "CAST keyword",
+  "description": "CAST SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/cast.md",
+  "slug": "/__uneeded/reference/sql/cast",
+  "permalink": "/docs/__uneeded/reference/sql/cast",
+  "version": "current",
+  "sidebar_label": "CAST"
+}

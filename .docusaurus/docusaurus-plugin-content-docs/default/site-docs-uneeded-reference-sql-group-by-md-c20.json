@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/group-by",
+  "id": "__uneeded/reference/sql/group-by",
+  "isDocsHomePage": false,
+  "title": "GROUP BY keyword",
+  "description": "GROUP BY SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/group-by.md",
+  "slug": "/__uneeded/reference/sql/group-by",
+  "permalink": "/docs/__uneeded/reference/sql/group-by",
+  "version": "current",
+  "sidebar_label": "GROUP BY"
+}

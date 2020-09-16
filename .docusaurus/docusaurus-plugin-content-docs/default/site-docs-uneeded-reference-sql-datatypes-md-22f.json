@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/datatypes",
+  "id": "__uneeded/reference/sql/datatypes",
+  "isDocsHomePage": false,
+  "title": "Data types",
+  "description": "Data types reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/datatypes.md",
+  "slug": "/__uneeded/reference/sql/datatypes",
+  "permalink": "/docs/__uneeded/reference/sql/datatypes",
+  "version": "current",
+  "sidebar_label": "Data types"
+}

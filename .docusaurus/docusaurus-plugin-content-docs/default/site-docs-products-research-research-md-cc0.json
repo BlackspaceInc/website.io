@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/research/research",
+  "id": "products/research/research",
+  "isDocsHomePage": false,
+  "title": "Research",
+  "source": "@site/docs/products/research/research.md",
+  "slug": "/products/research/research",
+  "permalink": "/docs/products/research/research",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Marketplace",
+    "permalink": "/docs/products/marketplace/marketplace"
+  },
+  "next": {
+    "title": "VC",
+    "permalink": "/docs/products/vc/vc"
+  }
+}

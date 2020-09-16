@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/with",
+  "id": "__uneeded/reference/sql/with",
+  "isDocsHomePage": false,
+  "title": "WITH keyword",
+  "description": "WITH SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/with.md",
+  "slug": "/__uneeded/reference/sql/with",
+  "permalink": "/docs/__uneeded/reference/sql/with",
+  "version": "current",
+  "sidebar_label": "WITH"
+}

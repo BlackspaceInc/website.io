@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/web-console",
+  "id": "__uneeded/reference/web-console",
+  "isDocsHomePage": false,
+  "title": "Web Console",
+  "description": "Web Console reference documentation.",
+  "source": "@site/docs/__uneeded/reference/web-console.md",
+  "slug": "/__uneeded/reference/web-console",
+  "permalink": "/docs/__uneeded/reference/web-console",
+  "version": "current",
+  "sidebar_label": "Web Console"
+}

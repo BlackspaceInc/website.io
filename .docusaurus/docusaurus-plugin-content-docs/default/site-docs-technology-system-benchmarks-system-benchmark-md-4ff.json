@@ -1,0 +1,19 @@
+{
+  "unversionedId": "technology/system-benchmarks/system-benchmark",
+  "id": "technology/system-benchmarks/system-benchmark",
+  "isDocsHomePage": false,
+  "title": "System Benchmarks",
+  "source": "@site/docs/technology/system-benchmarks/system-benchmark.md",
+  "slug": "/technology/system-benchmarks/system-benchmark",
+  "permalink": "/docs/technology/system-benchmarks/system-benchmark",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/technology/deployments/deployments"
+  },
+  "next": {
+    "title": "Third Party Api's",
+    "permalink": "/docs/technology/third-party-apis/third-party-apis"
+  }
+}

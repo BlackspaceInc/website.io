@@ -1,0 +1,20 @@
+{
+  "unversionedId": "learning/distributed-systems/patterns",
+  "id": "learning/distributed-systems/patterns",
+  "isDocsHomePage": false,
+  "title": "Architectural Patterns",
+  "description": "A curated list of software and architecture related design patterns.",
+  "source": "@site/docs/learning/distributed-systems/patterns.md",
+  "slug": "/learning/distributed-systems/patterns",
+  "permalink": "/docs/learning/distributed-systems/patterns",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Distributed Systems Learning Resources",
+    "permalink": "/docs/learning/distributed-systems/distributed-systems"
+  },
+  "next": {
+    "title": "Scalable Systems Resources",
+    "permalink": "/docs/learning/scalability/scalability"
+  }
+}

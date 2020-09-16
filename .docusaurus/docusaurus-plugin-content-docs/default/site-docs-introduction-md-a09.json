@@ -1,0 +1,20 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Blackspace Platform provides an environment through which commerce between consumers and minority owned business can be facilitated.",
+  "source": "@site/docs/introduction.md",
+  "slug": "/introduction",
+  "permalink": "/docs/introduction",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Influences",
+    "permalink": "/docs/__guidelines/influences"
+  },
+  "next": {
+    "title": "Big Data Architectural Patterns",
+    "permalink": "/docs/learning/distributed-systems/big-data"
+  }
+}

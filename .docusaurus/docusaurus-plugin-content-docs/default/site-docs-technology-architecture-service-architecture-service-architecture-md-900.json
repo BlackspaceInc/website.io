@@ -1,0 +1,19 @@
+{
+  "unversionedId": "technology/architecture/service-architecture/service-architecture",
+  "id": "technology/architecture/service-architecture/service-architecture",
+  "isDocsHomePage": false,
+  "title": "Service Architecture",
+  "source": "@site/docs/technology/architecture/service-architecture/service-architecture.md",
+  "slug": "/technology/architecture/service-architecture/service-architecture",
+  "permalink": "/docs/technology/architecture/service-architecture/service-architecture",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Metrics",
+    "permalink": "/docs/technology/architecture/metrics/metrics"
+  },
+  "next": {
+    "title": "Service-Mesh (Linkerd/istio)",
+    "permalink": "/docs/technology/architecture/service-mesh/service-mesh"
+  }
+}

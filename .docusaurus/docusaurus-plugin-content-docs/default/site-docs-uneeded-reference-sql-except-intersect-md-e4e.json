@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/except-intersect",
+  "id": "__uneeded/reference/sql/except-intersect",
+  "isDocsHomePage": false,
+  "title": "EXCEPT & INTERSECT keywords",
+  "description": "EXCEPT and INTERSECT SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/except-intersect.md",
+  "slug": "/__uneeded/reference/sql/except-intersect",
+  "permalink": "/docs/__uneeded/reference/sql/except-intersect",
+  "version": "current",
+  "sidebar_label": "EXCEPT & INTERSECT"
+}

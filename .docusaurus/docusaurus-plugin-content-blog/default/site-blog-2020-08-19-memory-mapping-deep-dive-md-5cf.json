@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/08/19/memory-mapping-deep-dive",
+  "source": "@site/blog/2020-08-19-memory-mapping-deep-dive.md",
+  "description": "What we learned by re-examining our approach to memory mapping. A low level implementation, as close as posibble to the kernel, enabled even greater performance.",
+  "date": "2020-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "performance",
+      "permalink": "/blog/tags/performance"
+    },
+    {
+      "label": "deep-dive",
+      "permalink": "/blog/tags/deep-dive"
+    }
+  ],
+  "title": "Re-examining our approach to memory mapping",
+  "readingTime": 10.075,
+  "truncated": true,
+  "prevItem": {
+    "title": "Light-weight, blazing fast stack for your IoT application",
+    "permalink": "/blog/2020/08/25/questitto"
+  },
+  "nextItem": {
+    "title": "My journey making QuestDB",
+    "permalink": "/blog/2020/08/06/my-journey-writing-questdb"
+  }
+}

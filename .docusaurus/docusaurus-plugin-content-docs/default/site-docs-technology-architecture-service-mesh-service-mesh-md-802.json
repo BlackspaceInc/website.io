@@ -1,0 +1,19 @@
+{
+  "unversionedId": "technology/architecture/service-mesh/service-mesh",
+  "id": "technology/architecture/service-mesh/service-mesh",
+  "isDocsHomePage": false,
+  "title": "Service-Mesh (Linkerd/istio)",
+  "source": "@site/docs/technology/architecture/service-mesh/service-mesh.md",
+  "slug": "/technology/architecture/service-mesh/service-mesh",
+  "permalink": "/docs/technology/architecture/service-mesh/service-mesh",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Service Architecture",
+    "permalink": "/docs/technology/architecture/service-architecture/service-architecture"
+  },
+  "next": {
+    "title": "Authentication Microservice",
+    "permalink": "/docs/technology/backend-services/authentication-service/authentication-service"
+  }
+}

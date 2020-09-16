@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/union",
+  "id": "__uneeded/reference/sql/union",
+  "isDocsHomePage": false,
+  "title": "UNION keyword",
+  "description": "UNION SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/union.md",
+  "slug": "/__uneeded/reference/sql/union",
+  "permalink": "/docs/__uneeded/reference/sql/union",
+  "version": "current",
+  "sidebar_label": "UNION"
+}

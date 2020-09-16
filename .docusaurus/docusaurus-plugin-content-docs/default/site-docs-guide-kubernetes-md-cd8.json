@@ -1,0 +1,21 @@
+{
+  "unversionedId": "guide/kubernetes",
+  "id": "guide/kubernetes",
+  "isDocsHomePage": false,
+  "title": "How to setup blackspace with Kubernetes",
+  "description": "Tutorial showing how to setup Blackspace with Kubernetes.",
+  "source": "@site/docs/guide/kubernetes.md",
+  "slug": "/guide/kubernetes",
+  "permalink": "/docs/guide/kubernetes",
+  "version": "current",
+  "sidebar_label": "Kubernetes",
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to use Blackspace with Docker",
+    "permalink": "/docs/guide/docker"
+  },
+  "next": {
+    "title": "Ecommerce Roadmap",
+    "permalink": "/docs/roadmap/blackspace-ecommerce/ecommerce-roadmap"
+  }
+}

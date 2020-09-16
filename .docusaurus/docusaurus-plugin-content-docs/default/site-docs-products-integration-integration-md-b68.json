@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/integration/integration",
+  "id": "products/integration/integration",
+  "isDocsHomePage": false,
+  "title": "Integration",
+  "source": "@site/docs/products/integration/integration.md",
+  "slug": "/products/integration/integration",
+  "permalink": "/docs/products/integration/integration",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Business",
+    "permalink": "/docs/products/business/business"
+  },
+  "next": {
+    "title": "Makers",
+    "permalink": "/docs/products/makers/makers"
+  }
+}

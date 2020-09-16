@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/copy",
+  "id": "__uneeded/reference/sql/copy",
+  "isDocsHomePage": false,
+  "title": "COPY keyword",
+  "description": "COPY SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/copy.md",
+  "slug": "/__uneeded/reference/sql/copy",
+  "permalink": "/docs/__uneeded/reference/sql/copy",
+  "version": "current",
+  "sidebar_label": "COPY"
+}

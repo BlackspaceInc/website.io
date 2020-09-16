@@ -1,0 +1,20 @@
+{
+  "unversionedId": "technology/deployments/deployments",
+  "id": "technology/deployments/deployments",
+  "isDocsHomePage": false,
+  "title": "Deployment",
+  "description": "CI/CD Flows (Deployments)",
+  "source": "@site/docs/technology/deployments/deployments.md",
+  "slug": "/technology/deployments/deployments",
+  "permalink": "/docs/technology/deployments/deployments",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "User Microservice",
+    "permalink": "/docs/technology/backend-services/user-service/user-service"
+  },
+  "next": {
+    "title": "System Benchmarks",
+    "permalink": "/docs/technology/system-benchmarks/system-benchmark"
+  }
+}

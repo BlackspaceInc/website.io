@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/07/24/use-questdb-for-swag",
+  "source": "@site/blog/2020-07-24-use-questdb-for-swag.md",
+  "description": "Participate to the QuestDB community and get rewarded with swag for your contributions.",
+  "date": "2020-07-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "projects",
+      "permalink": "/blog/tags/projects"
+    },
+    {
+      "label": "swag",
+      "permalink": "/blog/tags/swag"
+    }
+  ],
+  "title": "Use QuestDB and get swag!",
+  "readingTime": 3.215,
+  "truncated": true,
+  "prevItem": {
+    "title": "My journey making QuestDB",
+    "permalink": "/blog/2020/08/06/my-journey-writing-questdb"
+  },
+  "nextItem": {
+    "title": "InfluxDB line protocol on QuestDB",
+    "permalink": "/blog/2020/07/22/influxdb-lp-on-tcp"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/backend/backend-kubernetes/best-practices",
+  "id": "checklists/backend/backend-kubernetes/best-practices",
+  "isDocsHomePage": false,
+  "title": "Best Practices",
+  "description": "Chapter 1. Setting Up a Basic Service",
+  "source": "@site/docs/checklists/backend/backend-kubernetes/best-practices.md",
+  "slug": "/checklists/backend/backend-kubernetes/best-practices",
+  "permalink": "/docs/checklists/backend/backend-kubernetes/best-practices",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Application Development",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/application-development"
+  },
+  "next": {
+    "title": "Cluster Configuration",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/cluster-configuration"
+  }
+}

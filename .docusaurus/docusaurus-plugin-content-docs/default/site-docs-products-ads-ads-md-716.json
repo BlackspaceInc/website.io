@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/ads/ads",
+  "id": "products/ads/ads",
+  "isDocsHomePage": false,
+  "title": "Ads",
+  "source": "@site/docs/products/ads/ads.md",
+  "slug": "/products/ads/ads",
+  "permalink": "/docs/products/ads/ads",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ecommerce Roadmap",
+    "permalink": "/docs/roadmap/blackspace-ecommerce/ecommerce-roadmap"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/docs/products/analytics/analytics"
+  }
+}

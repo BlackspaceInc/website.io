@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/frontend/frontend-design-checklist/frontend-design-checklist",
+  "id": "checklists/frontend/frontend-design-checklist/frontend-design-checklist",
+  "isDocsHomePage": false,
+  "title": "Design Checklist",
+  "description": "Front-End Design Checklist",
+  "source": "@site/docs/checklists/frontend/frontend-design-checklist/frontend-design-checklist.md",
+  "slug": "/checklists/frontend/frontend-design-checklist/frontend-design-checklist",
+  "permalink": "/docs/checklists/frontend/frontend-design-checklist/frontend-design-checklist",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Security Checklist",
+    "permalink": "/docs/checklists/backend/backend-security-checklist/production-security-checklist"
+  },
+  "next": {
+    "title": "Performance Checklist",
+    "permalink": "/docs/checklists/frontend/frontend-performance-checklist/frontend-performance-checklist"
+  }
+}

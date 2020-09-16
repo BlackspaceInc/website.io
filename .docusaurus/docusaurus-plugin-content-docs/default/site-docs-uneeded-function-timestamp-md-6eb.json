@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/timestamp",
+  "id": "__uneeded/function/timestamp",
+  "isDocsHomePage": false,
+  "title": "Timestamp function",
+  "description": "Timestamp function reference documentation.",
+  "source": "@site/docs/__uneeded/function/timestamp.md",
+  "slug": "/__uneeded/function/timestamp",
+  "permalink": "/docs/__uneeded/function/timestamp",
+  "version": "current",
+  "sidebar_label": "Timestamp"
+}

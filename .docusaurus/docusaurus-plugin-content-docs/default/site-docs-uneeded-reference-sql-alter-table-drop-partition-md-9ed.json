@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/alter-table-drop-partition",
+  "id": "__uneeded/reference/sql/alter-table-drop-partition",
+  "isDocsHomePage": false,
+  "title": "ALTER TABLE DROP PARTITION keywords",
+  "description": "DROP PARTITION SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/alter-table-drop-partition.md",
+  "slug": "/__uneeded/reference/sql/alter-table-drop-partition",
+  "permalink": "/docs/__uneeded/reference/sql/alter-table-drop-partition",
+  "version": "current",
+  "sidebar_label": "ALTER TABLE DROP PARTITION"
+}

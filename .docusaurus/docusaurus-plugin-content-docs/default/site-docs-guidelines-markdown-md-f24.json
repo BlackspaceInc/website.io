@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/markdown",
+  "id": "__guidelines/markdown",
+  "isDocsHomePage": false,
+  "title": "Markdown",
+  "description": "This page describes elements and components from",
+  "source": "@site/docs/__guidelines/markdown.md",
+  "slug": "/__guidelines/markdown",
+  "permalink": "/docs/__guidelines/markdown",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Lexicon",
+    "permalink": "/docs/__guidelines/lexicon"
+  },
+  "next": {
+    "title": "Influences",
+    "permalink": "/docs/__guidelines/influences"
+  }
+}

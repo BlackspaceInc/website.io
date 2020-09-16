@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/numeric",
+  "id": "__uneeded/function/numeric",
+  "isDocsHomePage": false,
+  "title": "Numeric functions",
+  "description": "Numeric function reference documentation.",
+  "source": "@site/docs/__uneeded/function/numeric.md",
+  "slug": "/__uneeded/function/numeric",
+  "permalink": "/docs/__uneeded/function/numeric",
+  "version": "current",
+  "sidebar_label": "Numeric"
+}

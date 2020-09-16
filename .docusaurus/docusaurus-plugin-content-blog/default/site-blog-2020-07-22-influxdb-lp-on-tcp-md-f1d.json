@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/07/22/influxdb-lp-on-tcp",
+  "source": "@site/blog/2020-07-22-influxdb-lp-on-tcp.md",
+  "description": "How to use InfluxDB line protocol with QuestDB, this example shows an IoT application.",
+  "date": "2020-07-22T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "influxdb line protocol",
+      "permalink": "/blog/tags/influxdb-line-protocol"
+    },
+    {
+      "label": "tcp",
+      "permalink": "/blog/tags/tcp"
+    }
+  ],
+  "title": "InfluxDB line protocol on QuestDB",
+  "readingTime": 5.615,
+  "truncated": true,
+  "prevItem": {
+    "title": "Use QuestDB and get swag!",
+    "permalink": "/blog/2020/07/24/use-questdb-for-swag"
+  },
+  "nextItem": {
+    "title": "Demo launch on HackerNews postmorterm",
+    "permalink": "/blog/2020/07/01/we-put-a-sql-database-on-the-internet"
+  }
+}

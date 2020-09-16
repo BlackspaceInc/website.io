@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/truncate",
+  "id": "__uneeded/reference/sql/truncate",
+  "isDocsHomePage": false,
+  "title": "TRUNCATE TABLE keyword",
+  "description": "TRUNCATE SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/truncate.md",
+  "slug": "/__uneeded/reference/sql/truncate",
+  "permalink": "/docs/__uneeded/reference/sql/truncate",
+  "version": "current",
+  "sidebar_label": "TRUNCATE TABLE"
+}

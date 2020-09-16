@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/06/15/python-questdb-tutorial",
+  "source": "@site/blog/2020-06-15-python-questdb-tutorial.md",
+  "description": "Querying data from QuestDB in a Jupyter notebook in a Python application.",
+  "date": "2020-06-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/blog/tags/python"
+    },
+    {
+      "label": "jupyter",
+      "permalink": "/blog/tags/jupyter"
+    },
+    {
+      "label": "tutorial",
+      "permalink": "/blog/tags/tutorial"
+    }
+  ],
+  "title": "Querying data in a Jupyter Notebook",
+  "readingTime": 5.155,
+  "truncated": true,
+  "prevItem": {
+    "title": "Demo launch on HackerNews postmorterm",
+    "permalink": "/blog/2020/07/01/we-put-a-sql-database-on-the-internet"
+  },
+  "nextItem": {
+    "title": "IoT on QuestDB",
+    "permalink": "/blog/2020/06/05/iot-on-questdb"
+  }
+}

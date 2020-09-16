@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/12/19/lineprot",
+  "source": "@site/blog/2019-12-19-lineprot.md",
+  "description": "Comparison between InfluxDB and QuestDB regarding the performance of the line protocol when ingesting data.",
+  "date": "2019-12-19T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "influxdb",
+      "permalink": "/blog/tags/influxdb"
+    },
+    {
+      "label": "influxdb line protocol",
+      "permalink": "/blog/tags/influxdb-line-protocol"
+    },
+    {
+      "label": "performance",
+      "permalink": "/blog/tags/performance"
+    }
+  ],
+  "title": "Speeding up InfluxDB line protocol",
+  "readingTime": 4.66,
+  "truncated": true,
+  "prevItem": {
+    "title": "The art of thread messaging",
+    "permalink": "/blog/2020/03/15/interthread"
+  }
+}

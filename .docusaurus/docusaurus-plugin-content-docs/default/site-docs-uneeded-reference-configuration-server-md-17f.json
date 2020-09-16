@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/configuration/server",
+  "id": "__uneeded/reference/configuration/server",
+  "isDocsHomePage": false,
+  "title": "Configuration properties",
+  "description": "Server configuration keys reference documentation.",
+  "source": "@site/docs/__uneeded/reference/configuration/server.md",
+  "slug": "/__uneeded/reference/configuration/server",
+  "permalink": "/docs/__uneeded/reference/configuration/server",
+  "version": "current",
+  "sidebar_label": "server.conf"
+}

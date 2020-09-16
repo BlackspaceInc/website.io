@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/concept/indexes",
+  "id": "__uneeded/concept/indexes",
+  "isDocsHomePage": false,
+  "title": "Indexes",
+  "description": "Explanation on how indexes work as well as the pros and cons that you need to be aware of when using them.",
+  "source": "@site/docs/__uneeded/concept/indexes.md",
+  "slug": "/__uneeded/concept/indexes",
+  "permalink": "/docs/__uneeded/concept/indexes",
+  "version": "current",
+  "sidebar_label": "Indexes"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/backup",
+  "id": "__uneeded/reference/sql/backup",
+  "isDocsHomePage": false,
+  "title": "BACKUP keyword",
+  "description": "BACKUP SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/backup.md",
+  "slug": "/__uneeded/reference/sql/backup",
+  "permalink": "/docs/__uneeded/reference/sql/backup",
+  "version": "current",
+  "sidebar_label": "BACKUP"
+}

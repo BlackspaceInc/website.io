@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/concept/symbol",
+  "id": "__uneeded/concept/symbol",
+  "isDocsHomePage": false,
+  "title": "Symbol",
+  "description": "Description of the symbol data type. This QuestDB specific type is used to store repetitive strings in order to enable certain optimizations.",
+  "source": "@site/docs/__uneeded/concept/symbol.md",
+  "slug": "/__uneeded/concept/symbol",
+  "permalink": "/docs/__uneeded/concept/symbol",
+  "version": "current",
+  "sidebar_label": "Symbol"
+}

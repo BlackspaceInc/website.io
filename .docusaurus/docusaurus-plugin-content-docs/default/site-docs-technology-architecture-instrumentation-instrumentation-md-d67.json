@@ -1,0 +1,19 @@
+{
+  "unversionedId": "technology/architecture/instrumentation/instrumentation",
+  "id": "technology/architecture/instrumentation/instrumentation",
+  "isDocsHomePage": false,
+  "title": "Instrumentation",
+  "source": "@site/docs/technology/architecture/instrumentation/instrumentation.md",
+  "slug": "/technology/architecture/instrumentation/instrumentation",
+  "permalink": "/docs/technology/architecture/instrumentation/instrumentation",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Production Ready Checklist",
+    "permalink": "/docs/checklists/frontend/frontend-prod-checklist/frontend-prod-checklist"
+  },
+  "next": {
+    "title": "Metrics",
+    "permalink": "/docs/technology/architecture/metrics/metrics"
+  }
+}

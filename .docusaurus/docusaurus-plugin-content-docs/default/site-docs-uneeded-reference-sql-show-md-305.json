@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/show",
+  "id": "__uneeded/reference/sql/show",
+  "isDocsHomePage": false,
+  "title": "SHOW keyword",
+  "description": "SHOW SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/show.md",
+  "slug": "/__uneeded/reference/sql/show",
+  "permalink": "/docs/__uneeded/reference/sql/show",
+  "version": "current",
+  "sidebar_label": "SHOW"
+}

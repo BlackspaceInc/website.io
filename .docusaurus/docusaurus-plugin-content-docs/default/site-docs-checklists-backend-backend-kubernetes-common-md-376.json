@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/backend/backend-kubernetes/common",
+  "id": "checklists/backend/backend-kubernetes/common",
+  "isDocsHomePage": false,
+  "title": "Common Configuration",
+  "description": "Reserve priority and space for Kubernetes resources",
+  "source": "@site/docs/checklists/backend/backend-kubernetes/common.md",
+  "slug": "/checklists/backend/backend-kubernetes/common",
+  "permalink": "/docs/checklists/backend/backend-kubernetes/common",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Cluster Configuration",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/cluster-configuration"
+  },
+  "next": {
+    "title": "Namespace Management",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/governance"
+  }
+}

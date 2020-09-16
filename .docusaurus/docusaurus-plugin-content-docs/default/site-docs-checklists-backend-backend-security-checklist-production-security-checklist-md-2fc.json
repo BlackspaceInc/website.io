@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/backend/backend-security-checklist/production-security-checklist",
+  "id": "checklists/backend/backend-security-checklist/production-security-checklist",
+  "isDocsHomePage": false,
+  "title": "Security Checklist",
+  "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API.",
+  "source": "@site/docs/checklists/backend/backend-security-checklist/production-security-checklist.md",
+  "slug": "/checklists/backend/backend-security-checklist/production-security-checklist",
+  "permalink": "/docs/checklists/backend/backend-security-checklist/production-security-checklist",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Production Ready Checklist",
+    "permalink": "/docs/checklists/backend/backend-production-ready/production-ready-checklist"
+  },
+  "next": {
+    "title": "Design Checklist",
+    "permalink": "/docs/checklists/frontend/frontend-design-checklist/frontend-design-checklist"
+  }
+}

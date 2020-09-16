@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/frontend/frontend-performance-checklist/frontend-performance-checklist",
+  "id": "checklists/frontend/frontend-performance-checklist/frontend-performance-checklist",
+  "isDocsHomePage": false,
+  "title": "Performance Checklist",
+  "description": "Front-End Performance Checklist",
+  "source": "@site/docs/checklists/frontend/frontend-performance-checklist/frontend-performance-checklist.md",
+  "slug": "/checklists/frontend/frontend-performance-checklist/frontend-performance-checklist",
+  "permalink": "/docs/checklists/frontend/frontend-performance-checklist/frontend-performance-checklist",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Design Checklist",
+    "permalink": "/docs/checklists/frontend/frontend-design-checklist/frontend-design-checklist"
+  },
+  "next": {
+    "title": "Production Ready Checklist",
+    "permalink": "/docs/checklists/frontend/frontend-prod-checklist/frontend-prod-checklist"
+  }
+}

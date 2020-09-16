@@ -1,0 +1,19 @@
+{
+  "unversionedId": "products/business/business",
+  "id": "products/business/business",
+  "isDocsHomePage": false,
+  "title": "Business",
+  "source": "@site/docs/products/business/business.md",
+  "slug": "/products/business/business",
+  "permalink": "/docs/products/business/business",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Analytics",
+    "permalink": "/docs/products/analytics/analytics"
+  },
+  "next": {
+    "title": "Integration",
+    "permalink": "/docs/products/integration/integration"
+  }
+}

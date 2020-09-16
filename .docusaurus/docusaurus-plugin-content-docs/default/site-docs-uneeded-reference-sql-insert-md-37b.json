@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/insert",
+  "id": "__uneeded/reference/sql/insert",
+  "isDocsHomePage": false,
+  "title": "INSERT keyword",
+  "description": "INSERT SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/insert.md",
+  "slug": "/__uneeded/reference/sql/insert",
+  "permalink": "/docs/__uneeded/reference/sql/insert",
+  "version": "current",
+  "sidebar_label": "INSERT"
+}

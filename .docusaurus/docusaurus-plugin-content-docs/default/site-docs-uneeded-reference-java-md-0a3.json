@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/java",
+  "id": "__uneeded/reference/java",
+  "isDocsHomePage": false,
+  "title": "Embedded Java API",
+  "description": "Tutorial showing how to use the embedded version of QuestDB in a Java application.",
+  "source": "@site/docs/__uneeded/reference/java.md",
+  "slug": "/__uneeded/reference/java",
+  "permalink": "/docs/__uneeded/reference/java",
+  "version": "current",
+  "sidebar_label": "Java (embedded)"
+}

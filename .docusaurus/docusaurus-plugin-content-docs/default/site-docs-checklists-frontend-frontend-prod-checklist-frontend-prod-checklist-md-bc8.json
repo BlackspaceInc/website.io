@@ -1,0 +1,20 @@
+{
+  "unversionedId": "checklists/frontend/frontend-prod-checklist/frontend-prod-checklist",
+  "id": "checklists/frontend/frontend-prod-checklist/frontend-prod-checklist",
+  "isDocsHomePage": false,
+  "title": "Production Ready Checklist",
+  "description": "Front-End Checklist",
+  "source": "@site/docs/checklists/frontend/frontend-prod-checklist/frontend-prod-checklist.md",
+  "slug": "/checklists/frontend/frontend-prod-checklist/frontend-prod-checklist",
+  "permalink": "/docs/checklists/frontend/frontend-prod-checklist/frontend-prod-checklist",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Performance Checklist",
+    "permalink": "/docs/checklists/frontend/frontend-performance-checklist/frontend-performance-checklist"
+  },
+  "next": {
+    "title": "Instrumentation",
+    "permalink": "/docs/technology/architecture/instrumentation/instrumentation"
+  }
+}

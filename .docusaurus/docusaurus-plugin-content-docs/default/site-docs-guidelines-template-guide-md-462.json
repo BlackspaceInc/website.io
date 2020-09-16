@@ -1,0 +1,17 @@
+{
+  "unversionedId": "__guidelines/template/guide",
+  "id": "__guidelines/template/guide",
+  "isDocsHomePage": false,
+  "title": "How to \"xyz\"",
+  "description": "How To Guides should have a short description of what they intend to cover. If",
+  "source": "@site/docs/__guidelines/template/guide.md",
+  "slug": "/__guidelines/template/guide",
+  "permalink": "/docs/__guidelines/template/guide",
+  "version": "current",
+  "sidebar_label": "Guide",
+  "sidebar": "docs",
+  "next": {
+    "title": "FUNCTION",
+    "permalink": "/docs/__guidelines/template/function"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "unversionedId": "__uneeded/reference/influxdb-line-protocol",
+  "id": "__uneeded/reference/influxdb-line-protocol",
+  "isDocsHomePage": false,
+  "title": "InfluxDB line protocol",
+  "description": "Tutorial showing how to use InfluxDB line protocol. QuestDB can listen for packets both over TCP and UDP.",
+  "source": "@site/docs/__uneeded/reference/influxdb-line-protocol.md",
+  "slug": "/__uneeded/reference/influxdb-line-protocol",
+  "permalink": "/docs/__uneeded/reference/influxdb-line-protocol",
+  "version": "current"
+}

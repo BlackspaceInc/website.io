@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/meta",
+  "id": "__uneeded/function/meta",
+  "isDocsHomePage": false,
+  "title": "Meta functions",
+  "description": "Table and database metadata function reference documentation.",
+  "source": "@site/docs/__uneeded/function/meta.md",
+  "slug": "/__uneeded/function/meta",
+  "permalink": "/docs/__uneeded/function/meta",
+  "version": "current",
+  "sidebar_label": "Meta"
+}

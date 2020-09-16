@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/concept/sql-execution-order",
+  "id": "__uneeded/concept/sql-execution-order",
+  "isDocsHomePage": false,
+  "title": "SQL execution order",
+  "description": "Execution order for SQL clauses in QuestDB. This covers the SQL keywords you are used to as well as QuestDB's extensions to the language.",
+  "source": "@site/docs/__uneeded/concept/sql-execution-order.md",
+  "slug": "/__uneeded/concept/sql-execution-order",
+  "permalink": "/docs/__uneeded/concept/sql-execution-order",
+  "version": "current",
+  "sidebar_label": "SQL execution order"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/text",
+  "id": "__uneeded/function/text",
+  "isDocsHomePage": false,
+  "title": "Text functions",
+  "description": "Text function reference documentation.",
+  "source": "@site/docs/__uneeded/function/text.md",
+  "slug": "/__uneeded/function/text",
+  "permalink": "/docs/__uneeded/function/text",
+  "version": "current",
+  "sidebar_label": "Text"
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "learning/distributed-systems/consensus",
+  "id": "learning/distributed-systems/consensus",
+  "isDocsHomePage": false,
+  "title": "Distributed Concensus",
+  "description": "Distributed consensus reading list",
+  "source": "@site/docs/learning/distributed-systems/consensus.md",
+  "slug": "/learning/distributed-systems/consensus",
+  "permalink": "/docs/learning/distributed-systems/consensus",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Scalable Systems Resources",
+    "permalink": "/docs/learning/scalability/scalability"
+  },
+  "next": {
+    "title": "Application Development",
+    "permalink": "/docs/checklists/backend/backend-kubernetes/application-development"
+  }
+}

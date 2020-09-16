@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/style_guide/golang/common-review-comments",
+  "id": "__guidelines/style_guide/golang/common-review-comments",
+  "isDocsHomePage": false,
+  "title": "Common Golang P.R. Reviews",
+  "description": "This set of bulletpoints outline common comments made during reviews of Go code, so that a single detailed explanation can be referred to by shorthands.",
+  "source": "@site/docs/__guidelines/style_guide/golang/common-review-comments.md",
+  "slug": "/__guidelines/style_guide/golang/common-review-comments",
+  "permalink": "/docs/__guidelines/style_guide/golang/common-review-comments",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Clean Go Code",
+    "permalink": "/docs/__guidelines/style_guide/golang/clean-code"
+  },
+  "next": {
+    "title": "Blackspace Golang Style Guide",
+    "permalink": "/docs/__guidelines/style_guide/golang/golang-styleguide"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "technology/architecture/metrics/metrics",
+  "id": "technology/architecture/metrics/metrics",
+  "isDocsHomePage": false,
+  "title": "Metrics",
+  "source": "@site/docs/technology/architecture/metrics/metrics.md",
+  "slug": "/technology/architecture/metrics/metrics",
+  "permalink": "/docs/technology/architecture/metrics/metrics",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Instrumentation",
+    "permalink": "/docs/technology/architecture/instrumentation/instrumentation"
+  },
+  "next": {
+    "title": "Service Architecture",
+    "permalink": "/docs/technology/architecture/service-architecture/service-architecture"
+  }
+}

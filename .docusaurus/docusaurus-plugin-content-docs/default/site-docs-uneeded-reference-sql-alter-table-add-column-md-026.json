@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/alter-table-add-column",
+  "id": "__uneeded/reference/sql/alter-table-add-column",
+  "isDocsHomePage": false,
+  "title": "ALTER TABLE ADD COLUMN keywords",
+  "description": "ALTER TABLE ADD COLUMN SQL keword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/alter-table-add-column.md",
+  "slug": "/__uneeded/reference/sql/alter-table-add-column",
+  "permalink": "/docs/__uneeded/reference/sql/alter-table-add-column",
+  "version": "current",
+  "sidebar_label": "ALTER TABLE ADD COLUMN"
+}

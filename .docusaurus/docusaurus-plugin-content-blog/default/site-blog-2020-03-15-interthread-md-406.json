@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/03/15/interthread",
+  "source": "@site/blog/2020-03-15-interthread.md",
+  "description": "Detailed explanation of QuestDB's thread messaging system. A benchmark also shows the capabilities of this system.",
+  "date": "2020-03-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "thread model",
+      "permalink": "/blog/tags/thread-model"
+    },
+    {
+      "label": "messaging",
+      "permalink": "/blog/tags/messaging"
+    },
+    {
+      "label": "deep-dive",
+      "permalink": "/blog/tags/deep-dive"
+    }
+  ],
+  "title": "The art of thread messaging",
+  "readingTime": 6.135,
+  "truncated": true,
+  "prevItem": {
+    "title": "Aggregating billions of rows per sec with SIMD",
+    "permalink": "/blog/2020/04/02/using-simd-to-aggregate-billions-of-rows-per-second"
+  },
+  "nextItem": {
+    "title": "Speeding up InfluxDB line protocol",
+    "permalink": "/blog/2019/12/19/lineprot"
+  }
+}

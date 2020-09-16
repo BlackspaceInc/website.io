@@ -1,0 +1,660 @@
+{
+  "fetch-release": {
+    "default": {
+      "release": {
+        "url": "https://api.github.com/repos/questdb/questdb/releases/30208461",
+        "assets_url": "https://api.github.com/repos/questdb/questdb/releases/30208461/assets",
+        "upload_url": "https://uploads.github.com/repos/questdb/questdb/releases/30208461/assets{?name,label}",
+        "html_url": "https://github.com/questdb/questdb/releases/tag/5.0.3",
+        "id": 30208461,
+        "node_id": "MDc6UmVsZWFzZTMwMjA4NDYx",
+        "tag_name": "5.0.3",
+        "target_commitish": "master",
+        "name": "5.0.3",
+        "draft": false,
+        "author": {
+          "login": "bluestreak01",
+          "id": 7276403,
+          "node_id": "MDQ6VXNlcjcyNzY0MDM=",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/7276403?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/bluestreak01",
+          "html_url": "https://github.com/bluestreak01",
+          "followers_url": "https://api.github.com/users/bluestreak01/followers",
+          "following_url": "https://api.github.com/users/bluestreak01/following{/other_user}",
+          "gists_url": "https://api.github.com/users/bluestreak01/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/bluestreak01/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/bluestreak01/subscriptions",
+          "organizations_url": "https://api.github.com/users/bluestreak01/orgs",
+          "repos_url": "https://api.github.com/users/bluestreak01/repos",
+          "events_url": "https://api.github.com/users/bluestreak01/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/bluestreak01/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "prerelease": false,
+        "created_at": "2020-09-02T13:48:28Z",
+        "published_at": "2020-09-02T13:52:20Z",
+        "assets": [
+          {
+            "url": "https://api.github.com/repos/questdb/questdb/releases/assets/24740320",
+            "id": 24740320,
+            "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NzQwMzIw",
+            "name": "questdb-5.0.3-no-jre-bin.tar.gz",
+            "label": null,
+            "uploader": {
+              "login": "bluestreak01",
+              "id": 7276403,
+              "node_id": "MDQ6VXNlcjcyNzY0MDM=",
+              "avatar_url": "https://avatars0.githubusercontent.com/u/7276403?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/bluestreak01",
+              "html_url": "https://github.com/bluestreak01",
+              "followers_url": "https://api.github.com/users/bluestreak01/followers",
+              "following_url": "https://api.github.com/users/bluestreak01/following{/other_user}",
+              "gists_url": "https://api.github.com/users/bluestreak01/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/bluestreak01/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/bluestreak01/subscriptions",
+              "organizations_url": "https://api.github.com/users/bluestreak01/orgs",
+              "repos_url": "https://api.github.com/users/bluestreak01/repos",
+              "events_url": "https://api.github.com/users/bluestreak01/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/bluestreak01/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/x-gzip",
+            "state": "uploaded",
+            "size": 3375233,
+            "download_count": 71,
+            "created_at": "2020-09-02T13:24:59Z",
+            "updated_at": "2020-09-02T13:25:00Z",
+            "browser_download_url": "https://github.com/questdb/questdb/releases/download/5.0.3/questdb-5.0.3-no-jre-bin.tar.gz"
+          },
+          {
+            "url": "https://api.github.com/repos/questdb/questdb/releases/assets/24745766",
+            "id": 24745766,
+            "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NzQ1NzY2",
+            "name": "questdb-5.0.3-rt-freebsd-amd64.tar.gz",
+            "label": null,
+            "uploader": {
+              "login": "patrickSpaceSurfer",
+              "id": 29952889,
+              "node_id": "MDQ6VXNlcjI5OTUyODg5",
+              "avatar_url": "https://avatars1.githubusercontent.com/u/29952889?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/patrickSpaceSurfer",
+              "html_url": "https://github.com/patrickSpaceSurfer",
+              "followers_url": "https://api.github.com/users/patrickSpaceSurfer/followers",
+              "following_url": "https://api.github.com/users/patrickSpaceSurfer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/patrickSpaceSurfer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/patrickSpaceSurfer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/patrickSpaceSurfer/subscriptions",
+              "organizations_url": "https://api.github.com/users/patrickSpaceSurfer/orgs",
+              "repos_url": "https://api.github.com/users/patrickSpaceSurfer/repos",
+              "events_url": "https://api.github.com/users/patrickSpaceSurfer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/patrickSpaceSurfer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/gzip",
+            "state": "uploaded",
+            "size": 21080222,
+            "download_count": 5,
+            "created_at": "2020-09-02T14:45:12Z",
+            "updated_at": "2020-09-02T14:50:00Z",
+            "browser_download_url": "https://github.com/questdb/questdb/releases/download/5.0.3/questdb-5.0.3-rt-freebsd-amd64.tar.gz"
+          },
+          {
+            "url": "https://api.github.com/repos/questdb/questdb/releases/assets/24742085",
+            "id": 24742085,
+            "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NzQyMDg1",
+            "name": "questdb-5.0.3-rt-linux-amd64.tar.gz",
+            "label": null,
+            "uploader": {
+              "login": "mpsq",
+              "id": 5734722,
+              "node_id": "MDQ6VXNlcjU3MzQ3MjI=",
+              "avatar_url": "https://avatars2.githubusercontent.com/u/5734722?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/mpsq",
+              "html_url": "https://github.com/mpsq",
+              "followers_url": "https://api.github.com/users/mpsq/followers",
+              "following_url": "https://api.github.com/users/mpsq/following{/other_user}",
+              "gists_url": "https://api.github.com/users/mpsq/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/mpsq/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/mpsq/subscriptions",
+              "organizations_url": "https://api.github.com/users/mpsq/orgs",
+              "repos_url": "https://api.github.com/users/mpsq/repos",
+              "events_url": "https://api.github.com/users/mpsq/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/mpsq/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/gzip",
+            "state": "uploaded",
+            "size": 23033792,
+            "download_count": 9,
+            "created_at": "2020-09-02T13:50:55Z",
+            "updated_at": "2020-09-02T13:51:14Z",
+            "browser_download_url": "https://github.com/questdb/questdb/releases/download/5.0.3/questdb-5.0.3-rt-linux-amd64.tar.gz"
+          },
+          {
+            "url": "https://api.github.com/repos/questdb/questdb/releases/assets/24741043",
+            "id": 24741043,
+            "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NzQxMDQz",
+            "name": "questdb-5.0.3-rt-osx-amd64.tar.gz",
+            "label": null,
+            "uploader": {
+              "login": "jaugsburger",
+              "id": 10787042,
+              "node_id": "MDQ6VXNlcjEwNzg3MDQy",
+              "avatar_url": "https://avatars1.githubusercontent.com/u/10787042?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/jaugsburger",
+              "html_url": "https://github.com/jaugsburger",
+              "followers_url": "https://api.github.com/users/jaugsburger/followers",
+              "following_url": "https://api.github.com/users/jaugsburger/following{/other_user}",
+              "gists_url": "https://api.github.com/users/jaugsburger/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/jaugsburger/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/jaugsburger/subscriptions",
+              "organizations_url": "https://api.github.com/users/jaugsburger/orgs",
+              "repos_url": "https://api.github.com/users/jaugsburger/repos",
+              "events_url": "https://api.github.com/users/jaugsburger/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/jaugsburger/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/x-gzip",
+            "state": "uploaded",
+            "size": 19599100,
+            "download_count": 7,
+            "created_at": "2020-09-02T13:36:41Z",
+            "updated_at": "2020-09-02T13:37:04Z",
+            "browser_download_url": "https://github.com/questdb/questdb/releases/download/5.0.3/questdb-5.0.3-rt-osx-amd64.tar.gz"
+          },
+          {
+            "url": "https://api.github.com/repos/questdb/questdb/releases/assets/24740321",
+            "id": 24740321,
+            "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NzQwMzIx",
+            "name": "questdb-5.0.3-rt-windows-amd64.tar.gz",
+            "label": null,
+            "uploader": {
+              "login": "bluestreak01",
+              "id": 7276403,
+              "node_id": "MDQ6VXNlcjcyNzY0MDM=",
+              "avatar_url": "https://avatars0.githubusercontent.com/u/7276403?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/bluestreak01",
+              "html_url": "https://github.com/bluestreak01",
+              "followers_url": "https://api.github.com/users/bluestreak01/followers",
+              "following_url": "https://api.github.com/users/bluestreak01/following{/other_user}",
+              "gists_url": "https://api.github.com/users/bluestreak01/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/bluestreak01/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/bluestreak01/subscriptions",
+              "organizations_url": "https://api.github.com/users/bluestreak01/orgs",
+              "repos_url": "https://api.github.com/users/bluestreak01/repos",
+              "events_url": "https://api.github.com/users/bluestreak01/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/bluestreak01/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/x-gzip",
+            "state": "uploaded",
+            "size": 20185221,
+            "download_count": 15,
+            "created_at": "2020-09-02T13:25:00Z",
+            "updated_at": "2020-09-02T13:25:02Z",
+            "browser_download_url": "https://github.com/questdb/questdb/releases/download/5.0.3/questdb-5.0.3-rt-windows-amd64.tar.gz"
+          }
+        ],
+        "tarball_url": "https://api.github.com/repos/questdb/questdb/tarball/5.0.3",
+        "zipball_url": "https://api.github.com/repos/questdb/questdb/zipball/5.0.3",
+        "body": "## Release highlights\r\n\r\n- We improved PostgreSQL wire protocol to support more clients, such as C, Go, Python and NodeJS\r\n- We improved performance of memory reads across the board. See our blog [here](https://questdb.io/blog/2020/08/19/memory-mapping-deep-dive/)\r\n\r\n## What is new\r\n\r\n- SQL: LIKE implementation #476 (#512) Abhishek Pratap Singh*\r\n- SQL: added count(string), count(symbol) and count(long256). Also added rnd_long256(count) (#556)\r\n- SQL: contiguous memory implementation (#538), across the board performance improvement\r\n- SQL: added millisecond sampling ('T') (#553  \r\n- SQL: insert statement accepts timestamp as string in both micro- and milli formats.\r\n- SERVER: introduced version of web console and removed -f command line arg (#528 \r\n- SERVER: set default shared worker pool size to cpu count - 1 (#521)\r\n- EMBEDDED simplified embedded API (#539)\r\n- PG Wire: implemented protocol correctness. Fixes #450 (#544)\r\n- PG Wire: parameter type inferring from parameter values, support NodeJS bind variables. Fixed (#290)\r\n\r\n## What we fixed\r\n\r\n- SQL: drop table fix. Fixed #559 (#565)\r\n- SQL: as of join failed when timestamp was not in select clause (#560)\r\n- SQL: fixed timestamp propagation to join models (#558)\r\n- SQL: fix memory leak in LimitRecordCursorFactory (#554)\r\n- SQL: fixed issues with long NULL converting to double NULL. Also fixed group-by validation logic to deal with clauses more systematically. Fixed #540 (#545)\r\n- SQL: fixed incorrect column referencing from index-based filter implementation (#542)\r\n- SQL: fixed 'with' clause behaviour in set operations (union, expct, intersect), in recursive 'with' and in sub-queries (#541)\r\n- TCP ILP: change ILP TCP connection defaults to never disconnec (#533)\r\n- SQL: timezone parser could fail with unhandled exception (#536)\r\n- SQL: simplified symbol table access from record cursors (#530)\r\n- SERVER: fixed issue with bad request getting stuck in infinite loop\r\n- SERVER: removed gc logging that was causing issues in macOS\r\n- PACKAGE:fixed name of directory inside of 'no-jre' archive to match name of the archive\r\n\r\n"
+      }
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "__guidelines/template/guide",
+          "docs": [
+            {
+              "id": "__guidelines/content-hierarchy",
+              "path": "/docs/__guidelines/content-hierarchy"
+            },
+            {
+              "id": "__guidelines/contributing",
+              "path": "/docs/__guidelines/contributing"
+            },
+            {
+              "id": "__guidelines/influences",
+              "path": "/docs/__guidelines/influences"
+            },
+            {
+              "id": "__guidelines/lexicon",
+              "path": "/docs/__guidelines/lexicon"
+            },
+            {
+              "id": "__guidelines/markdown",
+              "path": "/docs/__guidelines/markdown"
+            },
+            {
+              "id": "__guidelines/naming-convention",
+              "path": "/docs/__guidelines/naming-convention"
+            },
+            {
+              "id": "__guidelines/releasing",
+              "path": "/docs/__guidelines/releasing"
+            },
+            {
+              "id": "__guidelines/reviewing",
+              "path": "/docs/__guidelines/reviewing"
+            },
+            {
+              "id": "__guidelines/security",
+              "path": "/docs/__guidelines/security"
+            },
+            {
+              "id": "__guidelines/sql-code-blocks",
+              "path": "/docs/__guidelines/sql-code-blocks"
+            },
+            {
+              "id": "__guidelines/style_guide/golang/clean-code",
+              "path": "/docs/__guidelines/style_guide/golang/clean-code"
+            },
+            {
+              "id": "__guidelines/style_guide/golang/common-review-comments",
+              "path": "/docs/__guidelines/style_guide/golang/common-review-comments"
+            },
+            {
+              "id": "__guidelines/style_guide/golang/golang-styleguide",
+              "path": "/docs/__guidelines/style_guide/golang/golang-styleguide"
+            },
+            {
+              "id": "__guidelines/template/function",
+              "path": "/docs/__guidelines/template/function"
+            },
+            {
+              "id": "__guidelines/template/guide",
+              "path": "/docs/__guidelines/template/guide"
+            },
+            {
+              "id": "__guidelines/template/sql",
+              "path": "/docs/__guidelines/template/sql"
+            },
+            {
+              "id": "__uneeded/api/rest",
+              "path": "/docs/__uneeded/api/rest"
+            },
+            {
+              "id": "__uneeded/concept/designated-timestamp",
+              "path": "/docs/__uneeded/concept/designated-timestamp"
+            },
+            {
+              "id": "__uneeded/concept/indexes",
+              "path": "/docs/__uneeded/concept/indexes"
+            },
+            {
+              "id": "__uneeded/concept/partitions",
+              "path": "/docs/__uneeded/concept/partitions"
+            },
+            {
+              "id": "__uneeded/concept/sql-execution-order",
+              "path": "/docs/__uneeded/concept/sql-execution-order"
+            },
+            {
+              "id": "__uneeded/concept/sql-extensions",
+              "path": "/docs/__uneeded/concept/sql-extensions"
+            },
+            {
+              "id": "__uneeded/concept/storage-model",
+              "path": "/docs/__uneeded/concept/storage-model"
+            },
+            {
+              "id": "__uneeded/concept/symbol",
+              "path": "/docs/__uneeded/concept/symbol"
+            },
+            {
+              "id": "__uneeded/function/aggregation",
+              "path": "/docs/__uneeded/function/aggregation"
+            },
+            {
+              "id": "__uneeded/function/date-time",
+              "path": "/docs/__uneeded/function/date-time"
+            },
+            {
+              "id": "__uneeded/function/meta",
+              "path": "/docs/__uneeded/function/meta"
+            },
+            {
+              "id": "__uneeded/function/numeric",
+              "path": "/docs/__uneeded/function/numeric"
+            },
+            {
+              "id": "__uneeded/function/random-value-generator",
+              "path": "/docs/__uneeded/function/random-value-generator"
+            },
+            {
+              "id": "__uneeded/function/row-generator",
+              "path": "/docs/__uneeded/function/row-generator"
+            },
+            {
+              "id": "__uneeded/function/text",
+              "path": "/docs/__uneeded/function/text"
+            },
+            {
+              "id": "__uneeded/function/timestamp",
+              "path": "/docs/__uneeded/function/timestamp"
+            },
+            {
+              "id": "__uneeded/function/timestamp-generator",
+              "path": "/docs/__uneeded/function/timestamp-generator"
+            },
+            {
+              "id": "__uneeded/reference/configuration/root-directory-structure",
+              "path": "/docs/__uneeded/reference/configuration/root-directory-structure"
+            },
+            {
+              "id": "__uneeded/reference/configuration/server",
+              "path": "/docs/__uneeded/reference/configuration/server"
+            },
+            {
+              "id": "__uneeded/reference/configuration/telemetry",
+              "path": "/docs/__uneeded/reference/configuration/telemetry"
+            },
+            {
+              "id": "__uneeded/reference/influxdb-line-protocol",
+              "path": "/docs/__uneeded/reference/influxdb-line-protocol"
+            },
+            {
+              "id": "__uneeded/reference/java",
+              "path": "/docs/__uneeded/reference/java"
+            },
+            {
+              "id": "__uneeded/reference/sql/alter-table-add-column",
+              "path": "/docs/__uneeded/reference/sql/alter-table-add-column"
+            },
+            {
+              "id": "__uneeded/reference/sql/alter-table-alter-column-add-index",
+              "path": "/docs/__uneeded/reference/sql/alter-table-alter-column-add-index"
+            },
+            {
+              "id": "__uneeded/reference/sql/alter-table-drop-column",
+              "path": "/docs/__uneeded/reference/sql/alter-table-drop-column"
+            },
+            {
+              "id": "__uneeded/reference/sql/alter-table-drop-partition",
+              "path": "/docs/__uneeded/reference/sql/alter-table-drop-partition"
+            },
+            {
+              "id": "__uneeded/reference/sql/backup",
+              "path": "/docs/__uneeded/reference/sql/backup"
+            },
+            {
+              "id": "__uneeded/reference/sql/case",
+              "path": "/docs/__uneeded/reference/sql/case"
+            },
+            {
+              "id": "__uneeded/reference/sql/cast",
+              "path": "/docs/__uneeded/reference/sql/cast"
+            },
+            {
+              "id": "__uneeded/reference/sql/copy",
+              "path": "/docs/__uneeded/reference/sql/copy"
+            },
+            {
+              "id": "__uneeded/reference/sql/create-table",
+              "path": "/docs/__uneeded/reference/sql/create-table"
+            },
+            {
+              "id": "__uneeded/reference/sql/datatypes",
+              "path": "/docs/__uneeded/reference/sql/datatypes"
+            },
+            {
+              "id": "__uneeded/reference/sql/distinct",
+              "path": "/docs/__uneeded/reference/sql/distinct"
+            },
+            {
+              "id": "__uneeded/reference/sql/drop",
+              "path": "/docs/__uneeded/reference/sql/drop"
+            },
+            {
+              "id": "__uneeded/reference/sql/except-intersect",
+              "path": "/docs/__uneeded/reference/sql/except-intersect"
+            },
+            {
+              "id": "__uneeded/reference/sql/fill",
+              "path": "/docs/__uneeded/reference/sql/fill"
+            },
+            {
+              "id": "__uneeded/reference/sql/group-by",
+              "path": "/docs/__uneeded/reference/sql/group-by"
+            },
+            {
+              "id": "__uneeded/reference/sql/insert",
+              "path": "/docs/__uneeded/reference/sql/insert"
+            },
+            {
+              "id": "__uneeded/reference/sql/join",
+              "path": "/docs/__uneeded/reference/sql/join"
+            },
+            {
+              "id": "__uneeded/reference/sql/latest-by",
+              "path": "/docs/__uneeded/reference/sql/latest-by"
+            },
+            {
+              "id": "__uneeded/reference/sql/limit",
+              "path": "/docs/__uneeded/reference/sql/limit"
+            },
+            {
+              "id": "__uneeded/reference/sql/order-by",
+              "path": "/docs/__uneeded/reference/sql/order-by"
+            },
+            {
+              "id": "__uneeded/reference/sql/rename",
+              "path": "/docs/__uneeded/reference/sql/rename"
+            },
+            {
+              "id": "__uneeded/reference/sql/sample-by",
+              "path": "/docs/__uneeded/reference/sql/sample-by"
+            },
+            {
+              "id": "__uneeded/reference/sql/select",
+              "path": "/docs/__uneeded/reference/sql/select"
+            },
+            {
+              "id": "__uneeded/reference/sql/show",
+              "path": "/docs/__uneeded/reference/sql/show"
+            },
+            {
+              "id": "__uneeded/reference/sql/truncate",
+              "path": "/docs/__uneeded/reference/sql/truncate"
+            },
+            {
+              "id": "__uneeded/reference/sql/union",
+              "path": "/docs/__uneeded/reference/sql/union"
+            },
+            {
+              "id": "__uneeded/reference/sql/where",
+              "path": "/docs/__uneeded/reference/sql/where"
+            },
+            {
+              "id": "__uneeded/reference/sql/with",
+              "path": "/docs/__uneeded/reference/sql/with"
+            },
+            {
+              "id": "__uneeded/reference/web-console",
+              "path": "/docs/__uneeded/reference/web-console"
+            },
+            {
+              "id": "checklists/backend/backend-kubernetes/application-development",
+              "path": "/docs/checklists/backend/backend-kubernetes/application-development"
+            },
+            {
+              "id": "checklists/backend/backend-kubernetes/best-practices",
+              "path": "/docs/checklists/backend/backend-kubernetes/best-practices"
+            },
+            {
+              "id": "checklists/backend/backend-kubernetes/cluster-configuration",
+              "path": "/docs/checklists/backend/backend-kubernetes/cluster-configuration"
+            },
+            {
+              "id": "checklists/backend/backend-kubernetes/common",
+              "path": "/docs/checklists/backend/backend-kubernetes/common"
+            },
+            {
+              "id": "checklists/backend/backend-kubernetes/governance",
+              "path": "/docs/checklists/backend/backend-kubernetes/governance"
+            },
+            {
+              "id": "checklists/backend/backend-kubernetes/patterns",
+              "path": "/docs/checklists/backend/backend-kubernetes/patterns"
+            },
+            {
+              "id": "checklists/backend/backend-production-ready/production-ready-checklist",
+              "path": "/docs/checklists/backend/backend-production-ready/production-ready-checklist"
+            },
+            {
+              "id": "checklists/backend/backend-security-checklist/production-security-checklist",
+              "path": "/docs/checklists/backend/backend-security-checklist/production-security-checklist"
+            },
+            {
+              "id": "checklists/frontend/frontend-design-checklist/frontend-design-checklist",
+              "path": "/docs/checklists/frontend/frontend-design-checklist/frontend-design-checklist"
+            },
+            {
+              "id": "checklists/frontend/frontend-performance-checklist/frontend-performance-checklist",
+              "path": "/docs/checklists/frontend/frontend-performance-checklist/frontend-performance-checklist"
+            },
+            {
+              "id": "checklists/frontend/frontend-prod-checklist/frontend-prod-checklist",
+              "path": "/docs/checklists/frontend/frontend-prod-checklist/frontend-prod-checklist"
+            },
+            {
+              "id": "guide/docker",
+              "path": "/docs/guide/docker"
+            },
+            {
+              "id": "guide/kubernetes",
+              "path": "/docs/guide/kubernetes"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/introduction"
+            },
+            {
+              "id": "learning/distributed-systems/big-data",
+              "path": "/docs/learning/distributed-systems/big-data"
+            },
+            {
+              "id": "learning/distributed-systems/consensus",
+              "path": "/docs/learning/distributed-systems/consensus"
+            },
+            {
+              "id": "learning/distributed-systems/distributed-systems",
+              "path": "/docs/learning/distributed-systems/distributed-systems"
+            },
+            {
+              "id": "learning/distributed-systems/patterns",
+              "path": "/docs/learning/distributed-systems/patterns"
+            },
+            {
+              "id": "learning/scalability/scalability",
+              "path": "/docs/learning/scalability/scalability"
+            },
+            {
+              "id": "products/ads/ads",
+              "path": "/docs/products/ads/ads"
+            },
+            {
+              "id": "products/analytics/analytics",
+              "path": "/docs/products/analytics/analytics"
+            },
+            {
+              "id": "products/business/business",
+              "path": "/docs/products/business/business"
+            },
+            {
+              "id": "products/integration/integration",
+              "path": "/docs/products/integration/integration"
+            },
+            {
+              "id": "products/makers/makers",
+              "path": "/docs/products/makers/makers"
+            },
+            {
+              "id": "products/marketplace/marketplace",
+              "path": "/docs/products/marketplace/marketplace"
+            },
+            {
+              "id": "products/research/research",
+              "path": "/docs/products/research/research"
+            },
+            {
+              "id": "products/social/social",
+              "path": "/docs/products/social/social"
+            },
+            {
+              "id": "products/vc/vc",
+              "path": "/docs/products/vc/vc"
+            },
+            {
+              "id": "roadmap/blackspace-ecommerce/ecommerce-roadmap",
+              "path": "/docs/roadmap/blackspace-ecommerce/ecommerce-roadmap"
+            },
+            {
+              "id": "technology/architecture/instrumentation/instrumentation",
+              "path": "/docs/technology/architecture/instrumentation/instrumentation"
+            },
+            {
+              "id": "technology/architecture/metrics/metrics",
+              "path": "/docs/technology/architecture/metrics/metrics"
+            },
+            {
+              "id": "technology/architecture/service-architecture/service-architecture",
+              "path": "/docs/technology/architecture/service-architecture/service-architecture"
+            },
+            {
+              "id": "technology/architecture/service-mesh/service-mesh",
+              "path": "/docs/technology/architecture/service-mesh/service-mesh"
+            },
+            {
+              "id": "technology/backend-services/authentication-service/authentication-service",
+              "path": "/docs/technology/backend-services/authentication-service/authentication-service"
+            },
+            {
+              "id": "technology/backend-services/company-service/company-service",
+              "path": "/docs/technology/backend-services/company-service/company-service"
+            },
+            {
+              "id": "technology/backend-services/email-service/email-service",
+              "path": "/docs/technology/backend-services/email-service/email-service"
+            },
+            {
+              "id": "technology/backend-services/user-service/user-service",
+              "path": "/docs/technology/backend-services/user-service/user-service"
+            },
+            {
+              "id": "technology/deployments/deployments",
+              "path": "/docs/technology/deployments/deployments"
+            },
+            {
+              "id": "technology/system-benchmarks/system-benchmark",
+              "path": "/docs/technology/system-benchmarks/system-benchmark"
+            },
+            {
+              "id": "technology/third-party-apis/third-party-apis",
+              "path": "/docs/technology/third-party-apis/third-party-apis"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

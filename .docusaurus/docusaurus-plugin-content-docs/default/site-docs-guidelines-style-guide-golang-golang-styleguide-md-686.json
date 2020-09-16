@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/style_guide/golang/golang-styleguide",
+  "id": "__guidelines/style_guide/golang/golang-styleguide",
+  "isDocsHomePage": false,
+  "title": "Blackspace Golang Style Guide",
+  "description": "<!--",
+  "source": "@site/docs/__guidelines/style_guide/golang/golang-styleguide.md",
+  "slug": "/__guidelines/style_guide/golang/golang-styleguide",
+  "permalink": "/docs/__guidelines/style_guide/golang/golang-styleguide",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Common Golang P.R. Reviews",
+    "permalink": "/docs/__guidelines/style_guide/golang/common-review-comments"
+  },
+  "next": {
+    "title": "Naming convention",
+    "permalink": "/docs/__guidelines/naming-convention"
+  }
+}

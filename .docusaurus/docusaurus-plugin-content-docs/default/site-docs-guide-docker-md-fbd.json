@@ -1,0 +1,21 @@
+{
+  "unversionedId": "guide/docker",
+  "id": "guide/docker",
+  "isDocsHomePage": false,
+  "title": "How to use Blackspace with Docker",
+  "description": "Tutorial showing how to use Blackspace with Docker.",
+  "source": "@site/docs/guide/docker.md",
+  "slug": "/guide/docker",
+  "permalink": "/docs/guide/docker",
+  "version": "current",
+  "sidebar_label": "Docker",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Third Party Api's",
+    "permalink": "/docs/technology/third-party-apis/third-party-apis"
+  },
+  "next": {
+    "title": "How to setup blackspace with Kubernetes",
+    "permalink": "/docs/guide/kubernetes"
+  }
+}

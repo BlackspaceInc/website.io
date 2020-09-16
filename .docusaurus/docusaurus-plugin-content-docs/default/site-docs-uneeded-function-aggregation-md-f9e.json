@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/function/aggregation",
+  "id": "__uneeded/function/aggregation",
+  "isDocsHomePage": false,
+  "title": "Aggregation functions",
+  "description": "Aggregation functions reference documentation.",
+  "source": "@site/docs/__uneeded/function/aggregation.md",
+  "slug": "/__uneeded/function/aggregation",
+  "permalink": "/docs/__uneeded/function/aggregation",
+  "version": "current",
+  "sidebar_label": "Aggregation"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/alter-table-alter-column-add-index",
+  "id": "__uneeded/reference/sql/alter-table-alter-column-add-index",
+  "isDocsHomePage": false,
+  "title": "ALTER TABLE COLUMN ADD INDEX keywords",
+  "description": "ADD INDEX SQL keword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/alter-table-alter-column-add-index.md",
+  "slug": "/__uneeded/reference/sql/alter-table-alter-column-add-index",
+  "permalink": "/docs/__uneeded/reference/sql/alter-table-alter-column-add-index",
+  "version": "current",
+  "sidebar_label": "ALTER TABLE COLUMN ADD INDEX"
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "learning/distributed-systems/distributed-systems",
+  "id": "learning/distributed-systems/distributed-systems",
+  "isDocsHomePage": false,
+  "title": "Distributed Systems Learning Resources",
+  "description": "Most links tend to be readings on architecture itself rather than code itself.",
+  "source": "@site/docs/learning/distributed-systems/distributed-systems.md",
+  "slug": "/learning/distributed-systems/distributed-systems",
+  "permalink": "/docs/learning/distributed-systems/distributed-systems",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Big Data Architectural Patterns",
+    "permalink": "/docs/learning/distributed-systems/big-data"
+  },
+  "next": {
+    "title": "Architectural Patterns",
+    "permalink": "/docs/learning/distributed-systems/patterns"
+  }
+}

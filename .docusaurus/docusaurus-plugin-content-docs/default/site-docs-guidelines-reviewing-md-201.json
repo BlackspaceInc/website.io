@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/reviewing",
+  "id": "__guidelines/reviewing",
+  "isDocsHomePage": false,
+  "title": "Reviewing",
+  "description": "Pull request reviews are required before merging code into Blackspace. This document",
+  "source": "@site/docs/__guidelines/reviewing.md",
+  "slug": "/__guidelines/reviewing",
+  "permalink": "/docs/__guidelines/reviewing",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Releases",
+    "permalink": "/docs/__guidelines/releasing"
+  },
+  "next": {
+    "title": "Security Policy",
+    "permalink": "/docs/__guidelines/security"
+  }
+}

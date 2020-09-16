@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/drop",
+  "id": "__uneeded/reference/sql/drop",
+  "isDocsHomePage": false,
+  "title": "DROP TABLE keyword",
+  "description": "DROP TABLE SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/drop.md",
+  "slug": "/__uneeded/reference/sql/drop",
+  "permalink": "/docs/__uneeded/reference/sql/drop",
+  "version": "current",
+  "sidebar_label": "DROP TABLE"
+}

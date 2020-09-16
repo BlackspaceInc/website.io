@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/08/06/my-journey-writing-questdb",
+  "source": "@site/blog/2020-08-06-my-journey-writing-questdb.md",
+  "description": "The detailed story of how the open source time series database QuestDB came to life.",
+  "date": "2020-08-06T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "hackernews",
+      "permalink": "/blog/tags/hackernews"
+    },
+    {
+      "label": "about",
+      "permalink": "/blog/tags/about"
+    },
+    {
+      "label": "story",
+      "permalink": "/blog/tags/story"
+    }
+  ],
+  "title": "My journey making QuestDB",
+  "readingTime": 5.13,
+  "truncated": true,
+  "prevItem": {
+    "title": "Re-examining our approach to memory mapping",
+    "permalink": "/blog/2020/08/19/memory-mapping-deep-dive"
+  },
+  "nextItem": {
+    "title": "Use QuestDB and get swag!",
+    "permalink": "/blog/2020/07/24/use-questdb-for-swag"
+  }
+}

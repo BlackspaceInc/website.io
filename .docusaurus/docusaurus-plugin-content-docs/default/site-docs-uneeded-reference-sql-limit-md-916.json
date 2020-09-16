@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/limit",
+  "id": "__uneeded/reference/sql/limit",
+  "isDocsHomePage": false,
+  "title": "LIMIT keyword",
+  "description": "LIMIT SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/limit.md",
+  "slug": "/__uneeded/reference/sql/limit",
+  "permalink": "/docs/__uneeded/reference/sql/limit",
+  "version": "current",
+  "sidebar_label": "LIMIT"
+}

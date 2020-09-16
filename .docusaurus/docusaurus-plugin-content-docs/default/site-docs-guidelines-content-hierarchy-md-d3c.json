@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/content-hierarchy",
+  "id": "__guidelines/content-hierarchy",
+  "isDocsHomePage": false,
+  "title": "Content hierarchy",
+  "description": "Documentation should follow a hierarchy, this is true both for the content and",
+  "source": "@site/docs/__guidelines/content-hierarchy.md",
+  "slug": "/__guidelines/content-hierarchy",
+  "permalink": "/docs/__guidelines/content-hierarchy",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Naming convention",
+    "permalink": "/docs/__guidelines/naming-convention"
+  },
+  "next": {
+    "title": "Lexicon",
+    "permalink": "/docs/__guidelines/lexicon"
+  }
+}

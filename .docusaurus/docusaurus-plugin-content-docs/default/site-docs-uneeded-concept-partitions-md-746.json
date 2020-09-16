@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/concept/partitions",
+  "id": "__uneeded/concept/partitions",
+  "isDocsHomePage": false,
+  "title": "Partitions",
+  "description": "Overview of QuestDB's partition system for time-series. This is an important feature that will help you craft more efficient queries.",
+  "source": "@site/docs/__uneeded/concept/partitions.md",
+  "slug": "/__uneeded/concept/partitions",
+  "permalink": "/docs/__uneeded/concept/partitions",
+  "version": "current",
+  "sidebar_label": "Partitions"
+}

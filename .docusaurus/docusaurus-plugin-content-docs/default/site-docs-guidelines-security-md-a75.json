@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/security",
+  "id": "__guidelines/security",
+  "isDocsHomePage": false,
+  "title": "Security Policy",
+  "description": "Reporting a vulnerability? See the Vulnerability Reporting section",
+  "source": "@site/docs/__guidelines/security.md",
+  "slug": "/__guidelines/security",
+  "permalink": "/docs/__guidelines/security",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Reviewing",
+    "permalink": "/docs/__guidelines/reviewing"
+  },
+  "next": {
+    "title": "Clean Go Code",
+    "permalink": "/docs/__guidelines/style_guide/golang/clean-code"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "__guidelines/influences",
+  "id": "__guidelines/influences",
+  "isDocsHomePage": false,
+  "title": "Influences",
+  "description": "Writing documentation is hard, some projects tackle that problem in a very",
+  "source": "@site/docs/__guidelines/influences.md",
+  "slug": "/__guidelines/influences",
+  "permalink": "/docs/__guidelines/influences",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Markdown",
+    "permalink": "/docs/__guidelines/markdown"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/configuration/telemetry",
+  "id": "__uneeded/reference/configuration/telemetry",
+  "isDocsHomePage": false,
+  "title": "Telemetry",
+  "description": "What data QuestDB collects and how to disable telemetry collection.",
+  "source": "@site/docs/__uneeded/reference/configuration/telemetry.md",
+  "slug": "/__uneeded/reference/configuration/telemetry",
+  "permalink": "/docs/__uneeded/reference/configuration/telemetry",
+  "version": "current",
+  "sidebar_label": "Telemetry"
+}

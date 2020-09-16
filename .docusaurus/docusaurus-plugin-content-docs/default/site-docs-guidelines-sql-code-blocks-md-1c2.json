@@ -1,0 +1,11 @@
+{
+  "unversionedId": "__guidelines/sql-code-blocks",
+  "id": "__guidelines/sql-code-blocks",
+  "isDocsHomePage": false,
+  "title": "SQL code blocks",
+  "description": "Checklist",
+  "source": "@site/docs/__guidelines/sql-code-blocks.md",
+  "slug": "/__guidelines/sql-code-blocks",
+  "permalink": "/docs/__guidelines/sql-code-blocks",
+  "version": "current"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/concept/designated-timestamp",
+  "id": "__uneeded/concept/designated-timestamp",
+  "isDocsHomePage": false,
+  "title": "Designated timestamp",
+  "description": "How designated timestamps are implemented and why it is an important functionality for time-series.",
+  "source": "@site/docs/__uneeded/concept/designated-timestamp.md",
+  "slug": "/__uneeded/concept/designated-timestamp",
+  "permalink": "/docs/__uneeded/concept/designated-timestamp",
+  "version": "current",
+  "sidebar_label": "Designated timestamp"
+}

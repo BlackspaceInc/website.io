@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/07/01/we-put-a-sql-database-on-the-internet",
+  "source": "@site/blog/2020-07-01-we-put-a-sql-database-on-the-internet.md",
+  "description": "What happens when you put a SQL database on the internet? Demo launch on HackerNews postmortem.",
+  "date": "2020-07-01T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "hackernews",
+      "permalink": "/blog/tags/hackernews"
+    },
+    {
+      "label": "postmorterm",
+      "permalink": "/blog/tags/postmorterm"
+    },
+    {
+      "label": "demo",
+      "permalink": "/blog/tags/demo"
+    }
+  ],
+  "title": "Demo launch on HackerNews postmorterm",
+  "readingTime": 7.755,
+  "truncated": true,
+  "prevItem": {
+    "title": "InfluxDB line protocol on QuestDB",
+    "permalink": "/blog/2020/07/22/influxdb-lp-on-tcp"
+  },
+  "nextItem": {
+    "title": "Querying data in a Jupyter Notebook",
+    "permalink": "/blog/2020/06/15/python-questdb-tutorial"
+  }
+}

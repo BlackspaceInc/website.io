@@ -1,0 +1,12 @@
+{
+  "unversionedId": "__uneeded/reference/sql/select",
+  "id": "__uneeded/reference/sql/select",
+  "isDocsHomePage": false,
+  "title": "SELECT keyword",
+  "description": "SELECT SQL keyword reference documentation.",
+  "source": "@site/docs/__uneeded/reference/sql/select.md",
+  "slug": "/__uneeded/reference/sql/select",
+  "permalink": "/docs/__uneeded/reference/sql/select",
+  "version": "current",
+  "sidebar_label": "SELECT"
+}
